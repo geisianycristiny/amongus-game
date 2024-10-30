@@ -93,3 +93,25 @@ h1 {
     background-size: contain;
     background-repeat: no-repeat;
 }
+
+.boxpainel {
+    display: flex;
+    flex-direction: column;
+    padding: 4%;
+    justify-content: center;
+    align-items: center;
+}
+
+.playerLedPanel {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+}
+
+.computerLedPanel{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+}

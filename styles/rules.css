@@ -42,7 +42,7 @@
 }
 @media scree and (min-width: 1159px) {
   
-    }
+    
     .painel {
         margin: 0 15px;
         min-width: 456px;
@@ -52,4 +52,4 @@
         min-height: 428px;
         min-width: 79.8%;
     }
-
+}

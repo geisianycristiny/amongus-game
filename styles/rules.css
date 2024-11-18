@@ -1,5 +1,5 @@
 @media screen and (max-width: 936px) {
-    .container{
+    .container {
         flex-direction: column;
     }
     .painel {
@@ -7,13 +7,14 @@
         min-width: 280px;
         min-height: 317px;
     }
-    .painel  .boxPainel {
+    .painel .boxPainel {
         min-height: 268px;
         min-width: 79.8%;
     }
 }
-@media scree and (min-width: 642px) {
-    .container{
+
+@media screen and (min-width: 642px) {
+    .container {
         flex-direction: row;
     }
     .painel {
@@ -26,8 +27,9 @@
         min-width: 79.8%;
     }
 }
-@media scree and (min-width: 776px) {
-    .container{
+
+@media screen and (min-width: 776px) {
+    .container {
         flex-direction: row;
     }
     .painel {
@@ -40,9 +42,8 @@
         min-width: 79.8%;
     }
 }
-@media scree and (min-width: 1159px) {
-  
-    
+
+@media screen and (min-width: 1159px) {
     .painel {
         margin: 0 15px;
         min-width: 456px;
